@@ -1,0 +1,6 @@
+"Predictor","df1","df2","F","p","eta2p","CI_low","CI_high","Model"
+"condition",2,137,7.81,6e-04,0.102,0.022,0.2,"H1 anxiety"
+"ics_c",1,137,4.82,0.0299,0.034,0,0.113,"H1 anxiety"
+"relstat3",2,137,3.09,0.0486,0.043,0,0.119,"H1 anxiety"
+"anx_pre_c",1,137,99.31,0,0.42,0.3,0.522,"H1 anxiety"
+"condition:ics_c",2,137,3.84,0.0238,0.053,0,0.135,"H1 anxiety"

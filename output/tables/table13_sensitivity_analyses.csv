@@ -1,0 +1,9 @@
+"Outcome","Sample","N","F_condition","p_condition","F_interaction","p_interaction","comp_vs_neut","p_comp_vs_neut"
+"State anxiety","Primary",146,7.81,6e-04,3.84,0.0238,-0.728,4e-04
+"State anxiety","Excl. speeders",138,8.83,3e-04,1.41,0.2468,-0.768,2e-04
+"State anxiety","Excl. straight-liners",136,7.35,0.001,3.25,0.0419,-0.748,6e-04
+"State anxiety","MC passers only",108,8.78,3e-04,0.42,0.6594,-0.94,2e-04
+"Self-perception","Primary",146,1.52,0.2215,0.4,0.6683,0.25,0.6612
+"Self-perception","Excl. speeders",138,1.37,0.2588,0.45,0.6413,0.244,0.6919
+"Self-perception","Excl. straight-liners",136,1.09,0.3402,0.2,0.8161,0.179,1
+"Self-perception","MC passers only",108,0.71,0.4929,0.07,0.9289,0.279,0.769

@@ -1,0 +1,6 @@
+"Predictor","df1","df2","F","p","eta2p","CI_low","CI_high","Model"
+"condition",2,137,1.52,0.2215,0.022,0,0.083,"H3 self-perception"
+"ics_c",1,137,9.44,0.0026,0.064,0.008,0.157,"H3 self-perception"
+"relstat3",2,137,17.86,0,0.207,0.094,0.317,"H3 self-perception"
+"mvs_pre_c",1,137,41.31,0,0.232,0.12,0.346,"H3 self-perception"
+"condition:ics_c",2,137,0.4,0.6683,0.006,0,0.044,"H3 self-perception"
